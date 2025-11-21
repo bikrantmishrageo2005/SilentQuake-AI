@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="RAW-IMAGE-LINK-HERE" width="900">
+</p>
 [![Python Version](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](#)
 [![Issues](https://img.shields.io/github/issues/bikrantmishrageo2005/SilentQuake-AI)](https://github.com/bikrantmishrageo2005/SilentQuake-AI/issues)
